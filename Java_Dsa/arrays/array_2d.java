@@ -105,5 +105,8 @@ public class array_2d {
             }
         }
         System.out.println("maximum value element : " + max_value);
+
+
+        sc.close();
     }
 }

@@ -7,7 +7,7 @@ public class methods {
     public static void main(String[] args) {
         System.out.println("hii");
         print2kaTable();
-        int arr[] = new int[7];
+        //int arr[] = new int[7];
         int brr[]={1,2,4};// both are representation of array
         System.out.println(brr[2]);
         

@@ -174,5 +174,6 @@ public class Day_1 {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

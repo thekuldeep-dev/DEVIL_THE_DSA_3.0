@@ -76,8 +76,6 @@ public class common_Methods {
         }
 
 
-<<<<<<< HEAD
-=======
 
         // replace is used to replace and its return string so its need a varaible to store that string
         
@@ -89,8 +87,7 @@ public class common_Methods {
         
 
         
+        sc.close();
 
-
->>>>>>> 59e6357 (Latest Java updates)
      }
 }

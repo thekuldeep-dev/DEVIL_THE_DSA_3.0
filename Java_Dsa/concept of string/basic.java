@@ -42,11 +42,7 @@ public class basic{
 
 
 
-        // string comparrison
-        // 3 methods:    
-                    // 1. ==
-                    // 2. .equal()
-                    // 3. .equalsIgnore()
+          // 3. .equalsIgnore()
 
 
         
@@ -64,7 +60,7 @@ public class basic{
         // // so important thing is they dont compare content or value sotred in name1 or name2 reference
         // // they just compare is they both refer to same string that stored in string pool.
 
-        // // so just check same refercen or address or not.
+        // // so just check same reference or address or not.
 
 
         // //  by equal() : its actually compare content of both strings not reference or address
@@ -96,8 +92,8 @@ public class basic{
         System.out.println("value : " + str);
 
         // but if use next() instead of nextLine(), its stops take input after space.
-
-
+        
+        sc.close();
         
     }
 }
